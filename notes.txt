@@ -1,3 +1,4 @@
 test note for git
 add line 2 <==
 add 3
+changed by teammate
