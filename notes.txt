@@ -1,1 +1,2 @@
 test note for git
+add line 2 <==
